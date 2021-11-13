@@ -1,0 +1,24 @@
+body{
+  text-align: justify;
+  margin-left: 20%;
+  margin-right: 20%;
+  background-color: #FFFEEE;
+  color: #000000;
+  font-size: 1.2em;
+  font-family: 'EB Garamond', serif;
+}
+
+p{
+  margin: 0;
+  text-indent: 2.5em;
+}
+
+.capa{
+  text-align: center;
+  font-family: 'EB Garamond', serif;
+}
+
+.texto{
+  font-family: 'EB Garamond', serif;
+  line-height: 1.6;
+}
